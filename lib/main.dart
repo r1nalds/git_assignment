@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
             child: Column(
-          children: const [Text("First change in my app"), Text("Stacked text")],
+          children: const [Text("First change in my app"), Text("Stacked text"), Text("Second commit")],
         )),
       ),
     );
